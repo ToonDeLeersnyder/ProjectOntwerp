@@ -1,0 +1,1409 @@
+[ AutoCAD - Sat May 01 15:41:17 2021  ]----------------------------------------
+
+Opening an AutoCAD 2018 format file.
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _copyclip 6 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 6 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copy 6 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copy 6 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _face 
+Enter a face editing option
+[Extrude/Move/Rotate/Offset/Taper/Delete/Copy/coLor/mAterial/Undo/eXit] <eXit>: _extrude 
+Select faces or [Undo/Remove]: 
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+No solids detected.
+
+Select faces or [Undo/Remove]: 
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+A 3D solid must be selected.
+
+No solids detected.
+
+Select faces or [Undo/Remove]: *Cancel*
+
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle:  
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+Command: 
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+Command: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: *Cancel*
+
+Command: _u DIM GROUP 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: _mtext 
+Current text style:  "Standard"  Text height:  2.5  Annotative:  No
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 15
+
+
+Command: *Cancel*
+
+Command: 
+Command: _Options 
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select extension line origin to continue or [Baseline]:
+
+Linear, ordinate, or angular associative dimension required.
+Specify first extension line origin to continue:*Cancel*
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: _u DIM GROUP 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select extension line origin to continue or [Baseline]:*Cancel*
+
+Command: _u DIM GROUP 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select extension line origin to continue or [Baseline]:_u 
+
+*Invalid selection*
+Expects a point or Baseline]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: _u DIM GROUP 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: 
+
+Specify angular dimension location or [Mtext/Text/text aNgle/Undo]: 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\3d_1_1_17713_f8865d5c.sv$ ...
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

@@ -1,0 +1,2528 @@
+[ AutoCAD - Sat May 01 15:37:24 2021  ]----------------------------------------
+
+Command: 
+Command: 
+Command: _open 
+Command: 
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: 100
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 10
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <10.0000>: 30
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _u INTELLIZOOM 
+Command: _u ERASE 
+Command: _u OFFSET GROUP 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <10.0000>: 35
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <35.0000>: 5
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 10
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 10
+
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 5
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _u INTELLIZOOM 
+Command: _u TRIM GROUP 
+Command: _u OFFSET GROUP 
+Command: _u OFFSET GROUP 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP OFFSET 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP OFFSET 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 OFFSET GROUP 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 2
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: _u 
+
+*Invalid selection*
+Expects a point or Fence/cuTting edges/Crossing/mOde/Project
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: _u 
+
+*Invalid selection*
+Expects a point or Fence/cuTting edges/Crossing/mOde/Project
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: *Cancel*
+
+Command: _u TRIM GROUP 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u ERASE 
+Command: _u OFFSET GROUP 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _mtext 
+Current text style:  "Standard"  Text height:  2.5  Annotative:  No
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 
+
+Crossing Lasso  Press Spacebar to cycle options
+Command: *Cancel*
+
+Crossing Lasso  Press Spacebar to cycle options
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+Command: 
+
+
+Command: _u 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM 
+Command: _u MTEXT GROUP 
+Command: 
+Command: 
+Command: _mtext 
+Current text style:  "Standard"  Text height:  2.5  Annotative:  No
+Specify first corner: 
+Specify opposite corner or [Height/Justify/Line spacing/Rotation/Style/Width/Columns]: 
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_18958_9cc81923.sv$ ...
+
+Command: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+Command: TXTEXP
+
+Initializing...
+Select text to be EXPLODED: 1 found
+
+Nested items = Off    Orphaned data = Off
+1 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 12 found
+
+Select objects: 1 found, 13 total
+
+Select objects: 
+
+13 loops extracted.
+
+1 loop rejected.
+    Self intersections                     : 1 loop.
+
+
+12 Regions created.
+
+Command: *Cancel*
+
+Command: _u REGION GROUP 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 13 found
+
+Select objects: 
+
+13 loops extracted.
+
+1 loop rejected.
+    Self intersections                     : 1 loop.
+
+
+12 Regions created.
+
+Command: _u REGION GROUP 
+Command: 
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 13 found
+
+Select objects: 
+
+13 loops extracted.
+
+1 loop rejected.
+    Self intersections                     : 1 loop.
+
+
+12 Regions created.
+
+Command: 
+Command: 
+Command: 
+Command: _region 
+Select objects: 1 found
+
+Select objects: 
+
+1 loop extracted.
+
+1 loop rejected.
+    Self intersections                     : 1 loop.
+
+
+0 Regions created.
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select cutting edges ...1 found
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Cannot TRIM this object.
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select cutting edges ...1 found
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: _u TRIM GROUP 
+Command: _u Grip Edit 
+Command: _u TRIM GROUP 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: 
+Command: _arc 
+Specify start point of arc or [Center]: 
+Specify second point of arc or [Center/End]: 
+Specify end point of arc: 160
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:*Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select cutting edges ...1 found
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: _u 
+
+*Invalid selection*
+Expects a point or Fence/cuTting edges/Crossing/mOde/Project
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: _u 
+
+*Invalid selection*
+Expects a point or Fence/cuTting edges/Crossing/mOde/Project
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: *Cancel*
+
+Command: _u TRIM GROUP 
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: _u INTELLIZOOM 
+Command: _u ARC GROUP 
+Command: _u 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u REGION GROUP 
+Command: _u REGION GROUP 
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: 
+Command: 
+Command: _region 
+Select objects: 1 found
+
+Select objects: 
+
+1 loop extracted.
+
+
+1 Region created.
+
+Command: 
+Command: 
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: Specify opposite corner: 2 found, 4 total
+
+Select objects: Specify opposite corner: 3 found, 7 total
+
+Select objects: *Cancel*
+None found.
+
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 2 found
+
+Select objects: Specify opposite corner: 2 found, 4 total
+
+Select objects: 
+
+4 loops extracted.
+
+
+4 Regions created.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _region 
+Select objects: Specify opposite corner: 8 found
+
+Select objects: 
+
+8 loops extracted.
+
+
+8 Regions created.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: UNION
+
+Select objects: Specify opposite corner: 12 found
+
+Select objects: 
+
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: UNION
+
+Select objects: 1 found
+
+Select objects: Specify opposite corner: 2 found (1 duplicate), 2 total
+
+Select objects: 
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _scale 1 found
+
+Specify base point: 
+Specify scale factor or [Copy/Reference]: 
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: _scale 1 found
+
+Specify base point: 
+Specify scale factor or [Copy/Reference]: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_18958_9cc81923.sv$ ...
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _group 1 found
+
+Unnamed group has been created. 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_18958_9cc81923.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _copyclip 
+Select objects: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_18958_9cc81923.sv$ ...
+
+Command: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 20
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_18958_9cc81923.sv$ ...
+
+Command: 
+Command: 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _qsave 
+Command: _Options 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>: 5
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: _u ERASE 
+Command: _u OFFSET GROUP 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>: 2
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: _u 
+Select object to offset or [Exit/Undo] <Exit>: _u 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _u OFFSET GROUP 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: _u 
+Select object to offset or [Exit/Undo] <Exit>: _u 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>: 4
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _extend 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u LINE GROUP 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 15
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17578_5dd51723.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 15
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select line to specify second side of angle: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+*Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: _u LINE GROUP 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: _u LINE GROUP 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: _u DIM GROUP 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin: 
+>>Enter new value for ORTHOMODE <0>:  
+Resuming DIM command.
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select parallel line segment to define extension line end point: 
+Specify dimension line location or [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <4.0000>: 4
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 21.12
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 0.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: R
+Specify fillet radius <0.0000>: 1
+
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: *Cancel*
+
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u FILLET GROUP 
+Command: _u FILLET GROUP 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <4.0000>: 2
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 0.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: R
+Specify fillet radius <0.0000>: 2
+
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 2.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: R
+Specify fillet radius <2.0000>: 2
+
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_8365_96c53f49.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 120
+
+Specify next point or [Undo]: 400
+
+Specify next point or [Close/Undo]: 240
+
+Specify next point or [Close/Undo]: 400
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: *Cancel*
+
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 10
+
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 2.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: *Cancel*
+
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: D
+Specify first chamfer distance <0.0000>: 2
+Specify second chamfer distance <2.0000>:  Specify second point: *Cancel*
+
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 2
+
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: A
+Specify chamfer length on the first line <0.0000>: 10
+Specify chamfer angle from the first line <0>: 10
+
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: _u 
+Command: _u CHAMFER GROUP 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: D
+Specify first chamfer distance <0.0000>: 10
+Specify second chamfer distance <10.0000>: 10
+
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 24 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 2.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 2.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: 
+Select second object or shift-select to apply corner or [Radius]: 
+Command: 
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 10
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: EXPLODE
+1 found
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: Specify opposite corner: 0 found
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: Specify opposite corner: 0 found
+Select objects: Specify opposite corner: *Cancel*
+0 found
+Select objects: 
+
+None found.
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+EXPLODE
+1 found
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: 1 found, 0 total
+1 was not able to be exploded.
+
+Select objects: *Cancel*
+
+None found.
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.0000>: 10
+
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <10.0000>: 
+
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: _u DIM GROUP 
+Command: _u DIM GROUP 
+Command: _u TRIM GROUP 
+Command: _u COPY GROUP 
+Command: _u COPY GROUP 
+Command: _u OFFSET GROUP 
+Command: _u TRIM GROUP 
+Command: _u INTELLIZOOM INTELLIPAN INTELLIZOOM 
+Command: _u COPY GROUP 
+Command: _u OFFSET GROUP 
+Command: _u OFFSET GROUP 
+Command: _u OFFSET GROUP 
+Command: _u OFFSET GROUP 
+Command: _u EXPLODE 
+Command: _u EXPLODE 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 7
+
+Specify next point or [Undo]: _u 
+Specify next point or [Undo]: 7
+
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _copy 
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+
+Command: 
+Command: 
+Command: 
+Command: _copy 1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 7
+
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _mirror 6 found
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: N
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _mirror 6 found
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: N
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 6 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: _u TRIM GROUP 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 18.43
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: _u INTELLIZOOM 
+Command: _u LINE GROUP 
+Command: _u INTELLIZOOM INTELLIPAN INTELLIZOOM 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 18.34
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Cannot TRIM this object.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 10.0000, Dist2 = 10.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 10.0000, Dist2 = 10.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: 
+Command: 
+Command: _chamfer 
+(TRIM mode) Current chamfer Dist1 = 10.0000, Dist2 = 10.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: 
+Select second line or shift-select to apply corner or [Distance/Angle/Method]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_13007_8ead3866.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _qsave 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _close 
+Command: 

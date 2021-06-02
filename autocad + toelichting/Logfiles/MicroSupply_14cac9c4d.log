@@ -1,0 +1,276 @@
+[ AutoCAD - Wed May 12 19:54:27 2021  ]----------------------------------------
+
+Opening an AutoCAD 2018 format file.
+Regenerating model.
+
+Loading Modeler DLLs.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _import
+
+Command: 
+Command: 
+Command: _dgnimport
+
+Command: 
+Command: 
+Command: _pdfimport 
+Select PDF underlay or [File] <File>: _file
+
+Command: 
+Command: 
+Command: _import
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_b74d86f2.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+
+Command: Regenerating model.
+
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 27 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _join 1 found
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: 
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: 
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: EXPLODE
+1 found
+
+Command: 
+Command: _u EXPLODE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _bedit 
+Command: 
+Command: 
+Command: 
+Command: _ungroup 
+Object is not a member of a group.
+Select group or [Name]: 
+
+Object is not a member of a group.
+Select group or [Name]: 
+
+Object is not a member of a group.
+Select group or [Name]: 
+Select group or [Name]: 
+
+Object is not a member of a group.
+Select group or [Name]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _scale 
+Select objects: Specify opposite corner: *Cancel*
+0 found
+Select objects: Specify opposite corner: 50 found
+
+Select objects: 
+
+Specify base point: 
+Specify scale factor or [Copy/Reference]: 0.25
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command:  Regenerating model.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <1>: 0 
+Command: 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <0>: 1 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <1>: 0 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <0>: 1 
+Command: 
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _bedit 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command:  
+Command: *Cancel*
+
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 152
+
+Specify next point or [Undo]: 58
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: *Cancel*
+
+Command: _u INTELLIZOOM INTELLIPAN INTELLIZOOM INTELLIPAN INTELLIZOOM INTELLIPAN INTELLIZOOM INTELLIZOOM INTELLIPAN INTELLIZOOM INTELLIPAN INTELLIZOOM INTELLIPAN INTELLIZOOM 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 152
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 58
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 152
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_b74d86f2.sv$ ...
+
+Command: 
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_b74d86f2.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_b74d86f2.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

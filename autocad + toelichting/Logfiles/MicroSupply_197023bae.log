@@ -1,0 +1,256 @@
+[ AutoCAD - Thu May 06 21:38:33 2021  ]----------------------------------------
+
+Opening an AutoCAD 2018 format file.
+Regenerating model.
+
+Loading Modeler DLLs.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: 20
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Cannot EXTEND this object.
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _arraypolar 
+
+Select objects: 1 found
+
+
+Select objects: 
+
+Type = Polar  Associative = Yes
+
+Specify center point of array or [Base point/Axis of rotation]: 
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>: 
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>: *Cancel*
+
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u ARRAYPOLAR GROUP 
+Command: _u INTELLIPAN INTELLIZOOM INTELLIPAN 
+Command: 
+Command: 
+Command: _arraypolar 
+
+Select objects: 1 found
+
+
+Select objects: *Cancel*
+
+Command: 
+Command: _arraypolar 
+
+Select objects: Specify opposite corner: 0 found
+
+Select objects: 1 found
+
+
+Select objects: 
+
+Type = Polar  Associative = Yes
+
+Specify center point of array or [Base point/Axis of rotation]: 
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>: 
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>: 
+Select grip to edit array or [ASsociative/Base point/Items/Angle between/Fill angle/ROWs/Levels/ROTate items/eXit]<eXit>: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: _u ARRAYPOLAR GROUP 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _arraypath 
+
+Select objects: 1 found
+
+
+Select objects: 
+
+Type = Path  Associative = Yes
+
+
+Select path curve: 
+
+Select grip to edit array or [ASsociative/Method/Base point/Tangent direction/Items/Rows/Levels/Align items/Z direction/eXit]<eXit>: *Cancel*
+
+Command: _u ARRAYPATH GROUP 
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _join 11 found
+
+11 objects converted to 1 polyline
+Command: 
+Command: 
+Command: _arraypath 
+
+Select objects: *Cancel*
+
+Command: 
+Command: _arrayrect 
+
+Select objects: 1 found
+
+
+Select objects: 1 found, 2 total
+
+
+Select objects: 
+
+Type = Rectangular  Associative = Yes
+
+Select grip to edit array or [ASsociative/Base point/COUnt/Spacing/COLumns/Rows/Levels/eXit]<eXit>: _u 
+Select grip to edit array or [ASsociative/Base point/COUnt/Spacing/COLumns/Rows/Levels/eXit]<eXit>: _u 
+Select grip to edit array or [ASsociative/Base point/COUnt/Spacing/COLumns/Rows/Levels/eXit]<eXit>: _u 
+Select grip to edit array or [ASsociative/Base point/COUnt/Spacing/COLumns/Rows/Levels/eXit]<eXit>: *Cancel*
+
+Command: _u ARRAYRECT GROUP 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _join 2 found
+
+2 segments joined into 1 polyline
+Command: 
+Command: 
+Command: 
+Command: _arraypath 1 found
+
+Type = Path  Associative = Yes
+
+
+Select path curve: 
+Objects selected to be arrayed may not be selected as path curve.
+
+1 was filtered out
+
+
+Select path curve: 
+
+Select grip to edit array or [ASsociative/Method/Base point/Tangent direction/Items/Rows/Levels/Align items/Z direction/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Method/Base point/Tangent direction/Items/Rows/Levels/Align items/Z direction/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Method/Base point/Tangent direction/Items/Rows/Levels/Align items/Z direction/eXit]<eXit>:  
+Select grip to edit array or [ASsociative/Method/Base point/Tangent direction/Items/Rows/Levels/Align items/Z direction/eXit]<eXit>: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _u ARRAYPATH GROUP 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

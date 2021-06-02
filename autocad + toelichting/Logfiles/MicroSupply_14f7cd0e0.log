@@ -1,0 +1,988 @@
+[ AutoCAD - Mon May 31 15:55:55 2021  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command:  
+Command: 
+Command: TXTEXP
+
+Initializing...
+Select text to be EXPLODED: 1 found
+
+Nested items = Off    Orphaned data = Off
+1 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EX
+EXTEND 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select boundary edges ... 9 found
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+9 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 0.5
+
+
+Command: 
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: TXTEXP
+
+View needs to be in plan (0 0 1).
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: TXTEXP
+
+Select text to be EXPLODED: 4 found
+
+Nested items = Off    Orphaned data = Off
+4 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+36 found
+
+0 objects joined, 32 objects discarded from the operation
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+12 found
+
+0 objects joined, 11 objects discarded from the operation
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+36 found
+
+Cannot sweep or extrude a self-intersecting curve.
+1 object removed from selection set.
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: 0.5
+
+
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u ERASE 
+Command: _u INTELLIZOOM '.3DPAN2 INTELLIZOOM 
+Command: _u 
+Command: _u 
+Command: _u EXTRUDE 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select cutting edges ...1 found
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: _u 
+Command has been completely undone.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select cutting edges ...1 found
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _pedit 
+Enter an option [Close/Join/Width/Edit vertex/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _pedit 
+Enter an option [Close/Join/Width/Edit vertex/Fit/Spline/Decurve/Ltype gen/Reverse/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: 
+Command: _copyclip 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+4 found
+
+Cannot sweep or extrude a self-intersecting curve.
+1 object removed from selection set.
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: 0.5
+
+
+Command: 
+Command: 
+Command: JOIN
+2 found
+
+2 objects converted to 1 polyline
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+3 found
+
+1 segment joined into 1 polyline, 1 object discarded from the operation
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: 0.5
+
+
+Command: VIEW
+
+Command: _u VIEW 
+Command: _u EXTRUDE 
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Cannot sweep or extrude a self-intersecting curve.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: _u DROPGEOM GROUP 
+Command: _u EXTRUDE 
+Command: _u JOIN 
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _u DROPGEOM GROUP 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXPLODE
+1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _copyclip 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+4 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _u 
+Command: _u EXTRUDE 
+Command: _u PASTECLIP GROUP 
+Command: _u ERASE 
+Command: _u COPYCLIP GROUP 
+Command: _u EXPLODE 
+Command: _u JOIN 
+Command: _u INTELLIZOOM 
+Command: _u EXTRUDE 
+Command: _u INTELLIZOOM 
+Command: _u PASTECLIP GROUP 
+Command: _u ERASE 
+Command: _u COPYCLIP GROUP 
+Command: _u PEDIT GROUP 
+Command: _u PEDIT GROUP 
+Command: _u ERASE 
+Command: _u TRIM GROUP 
+Command: _u TRIM GROUP 
+Command: _u TRIM GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: _u JOIN 
+Command: _u JOIN 
+Command: _u '.3DPAN2 INTELLIZOOM INTELLIZOOM 
+Command: _u GROUP (Lisp Expression) (Lisp Expression) (Lisp Expression) (Lisp Expression) (Lisp Expression) (Lisp Expression) (Lisp Expression) (Lisp Expression) 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: TXTEXP
+
+Select text to be EXPLODED: 4 found
+
+Nested items = Off    Orphaned data = Off
+4 text object(s) have been exploded to lines.
+The line objects have been placed on layer 0.
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+36 found
+
+Cannot sweep or extrude a self-intersecting curve.
+1 object removed from selection set.
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: 0.5
+
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+12 found
+
+Unnamed group has been created. 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+9 found
+
+Unnamed group has been created. 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+6 found
+
+Unnamed group has been created. 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+8 found
+
+Unnamed group has been created. 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+9 found
+
+Unnamed group has been created. 
+Command: 
+Command: 
+Command: 
+Command: _move 9 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 9 found
+
+Specify base point or [Displacement] <Displacement>:  
+Resuming MOVE command.
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Checking 703 intersections... 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_887a6829.sv$ ...
+
+Command: 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Checking 1176 intersections... 
+Command: *Cancel*
+
+Command: _u '.ACGZDRAGACTION 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: _u '.ACGZDRAGACTION 
+Command: _u 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:Command cancelled.
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: JOIN
+9 found
+
+0 objects joined, 9 objects discarded from the operation
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:*Cancel*
+
+Command:  
+Command: PRE
+PREVIEW No plotter is assigned.Use Page Setup to assign a plotter to the current Layout.
+
+Command: PRESSPULL
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+50 found
+
+42 objects converted to 7 polylines, 8 objects discarded from the operation
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+15 found
+
+Cannot sweep or extrude a self-intersecting curve.
+Cannot sweep or extrude a self-intersecting curve.
+2 objects removed from selection set.
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.5000>: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+15 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: _u INTELLIZOOM 
+Command: _u MOVE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** REMOVE VERTEX **
+Pick to remove vertex:
+Command: GROUP
+15 found
+
+Unnamed group has been created. 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: MOVE
+15 found
+
+Specify base point or [Displacement] <Displacement>: _u 
+Point or option keyword required.
+
+Specify base point or [Displacement] <Displacement>: _u 
+Point or option keyword required.
+
+Specify base point or [Displacement] <Displacement>: *Cancel*
+
+Command: _u MOVE 
+Command: _u '.ACGZDRAGACTION 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u GROUP 
+Command: _u Grip Edit 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: _u 
+Command: _u Grip Edit 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+15 found
+
+Unnamed group has been created. 
+Command: 
+Command: MOVE
+15 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Checking 861 intersections... 
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Oblique, non-uniformly scaled objects were ignored.
+Too many objects selected for INTERSECT
+
+Command:  
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _move 15 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 9 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 35 found
+
+Command:  
+Command:  
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+Command:  
+Command: EXT
+EXTRUDE 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _copyclip 15 found
+
+Command: 
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: GROUP
+15 found
+
+Unnamed group has been created. 
+Command:  
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_887a6829.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

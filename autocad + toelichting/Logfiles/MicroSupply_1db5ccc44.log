@@ -1,0 +1,1912 @@
+[ AutoCAD - Thu May 27 16:06:09 2021  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _import
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Checking 861 intersections... 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Checking 861 intersections... 
+Specify rotation angle or [Copy/Reference] <0>: *Cancel*
+
+Command: 
+Command: 
+Command: _rotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects:  
+Resuming ROTATE command.
+
+Select objects:  
+Resuming ROTATE command.
+
+Select objects:  
+Resuming ROTATE command.
+
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Specify rotation angle or [Copy/Reference] <0>: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _solidedit 
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: _body 
+Enter a body editing option
+[Imprint/seParate solids/Shell/cLean/Check/Undo/eXit] <eXit>: _separate 
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+A 3D solid must be selected.
+
+Select a 3D solid: 
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>:  
+Resuming MOVE command.
+
+Specify base point or [Displacement] <Displacement>:  
+Resuming MOVE command.
+
+Specify base point or [Displacement] <Displacement>:  
+Resuming MOVE command.
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: _rotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: 
+Checking 1225 intersections... 
+Specify rotation angle or [Copy/Reference] <0>: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command:  
+Command:  
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: _u DROPGEOM GROUP 
+Command: 
+Command: 
+Command: _move 
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Checking 861 intersections... 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 2
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 3.6
+
+Specify next point or [Undo]: 8.5
+
+Specify next point or [Close/Undo]: 11
+
+Specify next point or [Close/Undo]: 8.5
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copyclip 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _fillet 
+Current settings: Mode = TRIM, Radius = 2.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: T
+
+Specify through point or [Exit/Multiple/Undo] <Exit>: 
+Invalid through point.
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 1
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <1.0000>: 
+
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]:  
+Resuming LINE command.
+
+Specify next point or [Undo]: 19
+
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 17.3
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 17
+
+Specify next point or [Undo]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 29
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 28
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 27.5
+
+Specify next point or [Undo]: 29
+
+Specify next point or [Close/Undo]: 27.5
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 28.3
+
+Specify next point or [Undo]: 28.3
+
+Specify next point or [Close/Undo]: 28.3
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]:  
+Resuming TRIM command.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Command has been completely undone.
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Command has been completely undone.
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:_u 
+Command has been completely undone.
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Command: _u DIM GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u TRIM GROUP 
+Command: _u LINE GROUP 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP TRIM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP DIM 
+Everything has been redone
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _dim 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 DIM GROUP 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 DIM GROUP 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 TRIM GROUP 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE GROUP 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = On, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 ERASE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 GROUP LINE 
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 29
+
+Specify next point or [Undo]: 28.3
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]:  
+Resuming TRIM command.
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+13 found
+
+1 segment joined into 1 polyline
+8 objects converted to 2 polylines, 3 objects discarded from the operation
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+6 found
+
+0 objects joined, 6 objects discarded from the operation
+Command:  
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 4
+
+
+Command: 
+Command:  
+Command:  
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Command: 
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: *Cancel*
+
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: _intersect 
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+
+Command: _u INTERSECT GROUP 
+Command: 
+Command: 
+Command: 
+U
+EXTRUDE 
+Command: 
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _u INTELLIZOOM 
+Command: _u VSCURRENT GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u VSCURRENT GROUP Regenerating model.
+
+Command: _u EXTRUDE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 EXTRUDE 
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _intersect 
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: *Cancel*
+
+Command: 
+Command: _u VSCURRENT GROUP 
+Command: _u GROUP INTERSECT 
+Command: _u MOVE GROUP 
+Command: _u EXTRUDE GROUP 
+Command: _u VSCURRENT GROUP Regenerating model.
+
+Command: _u MOVE GROUP 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command:  
+Command:  
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:Command cancelled.
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Regen terminated
+Command cancelled.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:-4
+
+1 extrusion(s) created
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:-4
+
+1 extrusion(s) created
+Select object or bounded area:Command cancelled.
+
+Click a face, curve, or inside a bounded areaCommand cancelled.
+
+Select object or bounded area:Command cancelled.
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: _u ERASE 
+Command: 
+Command: PRESSPULL
+
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: _u '.3DPAN2 '.3DPAN2 INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u '.3DPAN2 INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u '.VIEWCUBEACTION 
+Command: _u '.VIEWCUBEACTION 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM '.3DPAN2 
+Command: _u ERASE 
+Command: _u PRESSPULL GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM '.3DPAN2 
+Command: _u ERASE 
+Command: _u INTELLIZOOM '.3DPAN2 '.3DPAN2 
+Command: _u PRESSPULL GROUP 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM INTELLIZOOM '.3DPAN2 
+Command: _u ERASE 
+Command: _u PRESSPULL 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u PRESSPULL 
+Command: _u PRESSPULL GROUP 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u ERASE 
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION 
+Command: _u PRESSPULL 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u VSCURRENT GROUP Regenerating model.
+
+Command: _u INTELLIZOOM 
+Command: _u '.VIEWCUBEACTION Regenerating model.
+
+Command: _u VSCURRENT GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u VSCURRENT GROUP Regenerating model.
+
+Command: _u PRESSPULL 
+Command: _u PRESSPULL GROUP 
+Command: _u INTELLIZOOM INTELLIPAN INTELLIZOOM 
+Command: _u ERASE 
+Command: _u INTELLIZOOM 
+Command: _u EXTRUDE GROUP 
+Command: _u EXTRUDE GROUP 
+Command: _u EXTRUDE GROUP 
+Command: _u EXTRUDE GROUP 
+Command: _u EXTRUDE 
+Command: _u VSCURRENT GROUP 
+Command: _u WSCURRENT 
+Command: _u 
+Command: _u 
+Command: _u 
+Command: _u '.3DPAN2 '.3DPAN2 
+Command: _u EXTRUDE 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copyclip 6 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _pasteclip Specify insertion point: 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-4.0000>: 4
+
+
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Regen terminated
+Command cancelled.
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+1 loop extracted.
+
+
+1 Region created.
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Regen terminated
+Command cancelled.
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u INTELLIZOOM 
+Command: _u ERASE 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:Command cancelled.
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command: _u INTELLIZOOM 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: _u 
+Command: _u ERASE 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u ERASE 
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _u MOVE GROUP 
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: d
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...d
+d
+Command: d
+Command: DIMENSION
+DIM 
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 20.5
+
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 4
+
+Specify next point or [Undo]: 5.5
+
+Specify next point or [Close/Undo]: 11
+
+Specify next point or [Close/Undo]: 5.5
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _trim 
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 16
+
+Specify next point or [Undo]: 7.5
+
+Specify next point or [Close/Undo]:  
+Resuming LINE command.
+
+Specify next point or [Close/Undo]: 15
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 9 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _u MOVE GROUP 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _copy 9 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: JOIN
+8 found
+
+8 objects converted to 2 polylines
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <4.0000>: 4
+
+
+Command: 
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Click a face, curve, or inside a bounded area
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _presspull 
+Select object or bounded area:Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:4
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _move 
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>:  
+Resuming MOVE command.
+
+Specify second point or <use first point as displacement>: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _move 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 16.5
+
+Specify next point or [Undo]: *Cancel*
+
+Command:  
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_45a65ec3.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

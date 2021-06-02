@@ -1,0 +1,90 @@
+[ AutoCAD - Mon May 10 16:17:19 2021  ]----------------------------------------
+
+Opening an AutoCAD 2018 format file.
+Regenerating model.
+
+Loading Modeler DLLs.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _wipeout Specify first point or [Frames/Polyline] <Polyline>: *Cancel*
+
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"Drafting & Annotation">: 3D Modeling
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_c5aa02ec.sv$ ...
+
+Command: 
+Command: _WSCURRENT 
+Enter new value for WSCURRENT <"3D Modeling">: Drafting & Annotation
+
+Command: 
+Command: 
+Command: 
+Command: _hatch 
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\toong\AppData\Local\Temp\MicroSupply_1_17713_c5aa02ec.sv$ ...
+
+Command: 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u HATCH GROUP 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
